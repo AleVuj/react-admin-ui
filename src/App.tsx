@@ -34,6 +34,7 @@ function App() {
   };
 
   const router = createBrowserRouter([
+    // routes
     {
       path: "/",
       element: <Layout />,
